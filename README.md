@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🍕 Pizza Hot Sales Analysis – SQL | DBMS | Excel
 
 A complete **data analysis project** focused on understanding sales performance, customer behavior, and business trends for a pizza store.  
