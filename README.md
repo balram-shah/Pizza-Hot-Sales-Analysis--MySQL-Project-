@@ -8,15 +8,12 @@ Using **SQL**, **DBMS**, and **Excel**, this project uncovers insights around to
 ---
 
 ## 📑 Table of Contents
-- [Project Overview](#project-overview)
-- [Tools & Technologies Used](#tools--technologies-used)
-- [Dataset Details](#dataset-details)
-- [Objectives](#objectives)
-- [Key Insights](#key-insights)
-- [SQL Queries Used](#sql-queries-used)
-- [Excel Visualizations](#excel-visualizations)
-- [Conclusion](#conclusion)
-- [Contact](#contact)
+- [Project Overview](#-project-overview)
+- [Tools & Technologies Used](#-tools--technologies-used)
+- [Dataset Details](#-dataset-details)
+- [Objectives](#-objectives)
+- [Key Insights](#-key-insights)
+- [Contact](#-contact)
 
 ---
 
