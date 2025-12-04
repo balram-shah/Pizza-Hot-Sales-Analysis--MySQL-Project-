@@ -76,7 +76,7 @@ Includes fields such as:
 
 ---
 
-📬 Contact
+## 📬 Contact
 
 If you'd like to learn more or collaborate, feel free to reach out:
 
