@@ -79,6 +79,6 @@ Includes fields such as:
 
 If you'd like to learn more or collaborate, feel free to reach out:
 
-📧 Email: sawmar044@gmail.com
+📧 Email: balramss.in@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/balram-shah
